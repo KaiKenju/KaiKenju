@@ -22,16 +22,17 @@ My name is Hiep. I am a student in Computer Science, Information and Communicati
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=FaceRestoration_GFPGAN&theme=dark" />
 </a>  
 
+<a href="https://github.com/KaiKenju/Recognition-Table-with-Table_Transformer-and-vietOCR">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=Recognition-Table-with-Table_Transformer-and-vietOCR&theme=gruvbox" />
+</a>    
 
 <a href="https://github.com/KaiKenju/Anime_Real_ESRGAN">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=Anime_Real_ESRGAN&theme=merko" />
 </a>
 
-<a href="https://github.com/KaiKenju/Recognition-Table-with-Table_Transformer-and-vietOCR">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=Recognition-Table-with-Table_Transformer-and-vietOCR&theme=gruvbox" />
-</a>    
+
 <a href="https://github.com/KaiKenju/ExpenseTrackerApp/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=ExpenseTrackerApp&theme=radical" />
