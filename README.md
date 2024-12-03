@@ -14,12 +14,12 @@ My name is Hiep. I am a student in Computer Science, Information and Communicati
 
 <a href="https://github.com/KaiKenju/TransLayoutDocs">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=TransLayoutDocs&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=TransLayoutDocs&theme=radical" />
 </a>
 
 <a href="https://github.com/KaiKenju/FaceRestoration_GFPGAN">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=FaceRestoration_GFPGAN&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=FaceRestoration_GFPGAN&theme=dark" />
 </a>  
 
 
