@@ -12,6 +12,11 @@ My name is Hiep. I am a student in Computer Science, Information and Communicati
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=Vietnamese_OCR_documents&theme=merko" />
 </a>  
 
+<a href="https://github.com/KaiKenju/TransLayoutDocs">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=TransLayoutDocs&theme=dark" />
+</a>
+
 <a href="https://github.com/KaiKenju/FaceRestoration_GFPGAN">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=FaceRestoration_GFPGAN&theme=radical" />
@@ -27,10 +32,6 @@ My name is Hiep. I am a student in Computer Science, Information and Communicati
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=Recognition-Table-with-Table_Transformer-and-vietOCR&theme=gruvbox" />
 </a>    
-<a href="https://github.com/KaiKenju/Faster-RCNN-YOLOv5">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=Faster-RCNN-YOLOv5&theme=dark" />
-</a>
 <a href="https://github.com/KaiKenju/ExpenseTrackerApp/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=ExpenseTrackerApp&theme=radical" />
