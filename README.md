@@ -18,6 +18,11 @@ My name is Hiep. I am a student in Computer Science, Information and Communicati
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=TransLayoutDocs&theme=radical" />
 </a>
 
+<a href="https://github.com/KaiKenju/n8n-Futuristic/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=n8n-Futuristic&theme=radical" />
+</a>  
+
 <a href="https://github.com/KaiKenju/FaceRestoration_GFPGAN">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=FaceRestoration_GFPGAN&theme=dark" />
@@ -34,10 +39,7 @@ My name is Hiep. I am a student in Computer Science, Information and Communicati
 </a>
 
 
-<a href="https://github.com/KaiKenju/ExpenseTrackerApp/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kaikenju&repo=ExpenseTrackerApp&theme=radical" />
-</a>  
+
 
 <h2>Skills</h2>
 <a href="https://www.python.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/python_e8bquv.svg" height="40" width="40" alt=Python/>
